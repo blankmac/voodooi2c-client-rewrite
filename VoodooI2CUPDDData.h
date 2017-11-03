@@ -9,13 +9,12 @@ struct updd_data {
     //  finger data
     int current_x[5];
     int current_y[5];
-
     
     //  device data
     int logical_x;
     int logical_y;
     
-    //  tells updd client to send 'touching false' packet to release gesture
+    //  tells updd client to send 'touching false' packet to release the current gesture
     bool finger_lift;
     
 };
