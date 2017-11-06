@@ -1,6 +1,6 @@
 #include "upddapi.h"
 #include "updd.h"
-#include "updd_data.h"
+#include "VoodooI2CUPDDData.h"
 
 #include <string.h>
 #include <iostream>

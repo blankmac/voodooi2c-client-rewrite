@@ -1,7 +1,7 @@
 #ifndef VOODOO_I2C_UPDD_CLIENT
 #define VOODOO_I2C_UPDD_CLIENT
 
-#include "updd_data.h"
+#include "VoodooI2CUPDDData.h"
 
 #define GESTURE_CTL_NAME "com.alexandred.VoodooI2C.GestureSocket"
 
